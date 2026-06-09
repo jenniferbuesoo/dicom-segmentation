@@ -39,7 +39,7 @@ A Python-based pipeline for processing medical DICOM images — from raw CT seri
 ## Setup
 
 ```bash
-git clone https://github.com/jennifer-bueso/dicom-segmentation
+git clone https://github.com/jenniferbuesoo/dicom-segmentation
 cd dicom-segmentation
 pip install -r requirements.txt
 ```
