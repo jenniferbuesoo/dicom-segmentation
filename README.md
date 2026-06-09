@@ -99,4 +99,4 @@ UNITEC · Tegucigalpa, Honduras
 
 ---
 
-*Available for professional internship in medical imaging or health-tech AI — El Salvador, July 2025*
+*Available for professional internship*
