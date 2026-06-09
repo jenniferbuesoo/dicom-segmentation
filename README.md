@@ -95,7 +95,7 @@ Focus area: medical image processing, diagnostic imaging technologies, and AI in
 **Jennifer Bueso**  
 Biomedical Engineering Student — 5th year  
 UNITEC · Tegucigalpa, Honduras  
-[jennifer_bueso@hotmail.com](mailto:jennifer_bueso@hotmail.com) · [LinkedIn](https://linkedin.com/in/jennifer-bueso)
+[jennifer_bueso@hotmail.com](mailto:jennifer_bueso@hotmail.com) · [LinkedIn](linkedin.com/in/jennifer-bueso-317939364)
 
 ---
 
